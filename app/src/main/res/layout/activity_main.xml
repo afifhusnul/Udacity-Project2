@@ -56,7 +56,6 @@
                         android:onClick="submitAScore"
                         android:text="Score" />
 
-
                     <TextView
                         android:id="@+id/team_a_offside_view"
                         android:layout_width="match_parent"
